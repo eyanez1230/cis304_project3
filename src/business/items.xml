@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!---Product Data-->
+<items>
+    <item type="book">
+        <id>HPDH</id>
+        <name>Harry Potter and the Deathly Hallows</name>
+        <medium>Book</medium>
+        <author>J.K. Rowling</author>
+        <genre>Wizarding</genre>
+        <pages>784</pages>
+        <quantity>3</quantity>
+        <imageURL>images/HPDH.jpg</imageURL>
+    </item>
+    <item type="book">
+        <id>CSH</id>
+        <name>The Complete Sherlock Holmes</name>
+        <medium>Book</medium>
+        <author>Sir Arthur Conan Doyle</author>
+        <genre>Who Done it</genre>
+        <pages>944</pages>
+        <quantity>2</quantity>
+        <imageURL>images/CSH.jpg</imageURL>
+    </item>
+    <item type="book">
+        <id>PL</id>
+        <name>Pirate Latitudes</name>
+        <medium>Book</medium>
+        <author>Michael Crichton</author>
+        <genre>Adventure</genre>
+        <pages>320</pages>
+        <quantity>1</quantity>
+        <imageURL>images/PL.jpg</imageURL>
+    </item>
+    
+    <item type="music">
+        <id>HWGA</id>
+        <name>Here We Go Again</name>
+        <medium>Music</medium>
+        <artist>Wynton Marsalis</artist>
+        <genre>blues</genre>
+        <format>Audio CD</format>
+        <quantity>3</quantity>
+        <imageURL>images/HWGA.jpg</imageURL>
+    </item>
+    
+    <item type="music">
+        <id>MC</id>
+        <name>Here We Go Again</name>
+        <medium>Music</medium>
+        <artist>Wynton Marsalis</artist>
+        <genre>blues</genre>
+        <format>Audio CD</format>
+        <quantity>3</quantity>
+        <imageURL>images/MC.jpg</imageURL>
+    </item>
+    
+    <item type="video">
+        <id>KS</id>
+        <name>The King's Speech</name>
+        <medium>Video</medium>
+        <genre>Drama</genre>
+        <rating>R (Language)</rating>
+        <actors>Colin Firth/Helena Bonham Carter/Geoffrey Rush/Guy Pearce</actors>
+        <director>Tom Hooper</director>
+        <runningTime>119 Minutes</runningTime>
+        <format>DVD</format>
+        <year>2010</year>
+        <quantity>1</quantity>
+        <imageURL>images/KS.jpg</imageURL>
+    </item>
+    <item type="video">
+        <id>HW</id>
+        <name>The Horse Whisperer</name>
+        <medium>Video</medium>
+        <genre>Drama</genre>
+        <rating>PG-13</rating>
+        <actors>Robert Redford/Kristin Scott Thomas</actors>
+        <director>Robert Redford/Robert Richardson</director>
+        <runningTime>169 Minutes</runningTime>
+        <format>Blu-ray</format>
+        <year>1998</year>
+        <quantity>1</quantity>
+        <imageURL>images/HW.jpg</imageURL>
+    </item>  
+    <item type="video">
+        <id>AVG</id>
+        <name>Avengers</name>
+        <medium>Video</medium>
+        <genre>Action</genre>
+        <rating>PG-13</rating>
+        <actors>Robert Downey Jr, Chris Evans, Scarlett Johanson</actors>
+        <director>Joss Whedon</director>
+        <runningTime>143 Minutes</runningTime>
+        <format>Blu-ray</format>
+        <year>2012</year>
+        <quantity>1</quantity>
+        <imageURL>images/AVG.jpg</imageURL>
+    </item>
+    <item type="video">
+        <id>TRNS</id>
+        <name>Transformers</name>
+        <medium>Video</medium>
+        <genre>Action</genre>
+        <rating>PG-13</rating>
+        <actors>Shia Lebouf, Megan Fox</actors>
+        <director>Michael Bay</director>
+        <runningTime>144 Minutes</runningTime>
+        <format>DVD</format>
+        <year>2007</year>
+        <quantity>1</quantity>
+        <imageURL>images/TRNS.jpg</imageURL>
+    </item>
+</items>
